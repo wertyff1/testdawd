@@ -1,0 +1,196 @@
+Uri: https://cdn.utmify.com.br/scripts/utms/latest.js
+File Name: C:\Downloaded Web Sites\lojacacau.shop\scripts\utms\latest-1.js
+Content Type: text/javascript
+
+Uri: https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;600&display=swap
+File Name: C:\Downloaded Web Sites\lojacacau.shop\css2-1
+Content Type: text/css
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLDz8V1s.ttf
+File Name: C:\Downloaded Web Sites\lojacacau.shop\s\poppins\v22\pxiByp8kv8JHgFVrLDz8V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiByp8kv8JHgFVrLEj6V1s.ttf
+File Name: C:\Downloaded Web Sites\lojacacau.shop\s\poppins\v22\pxiByp8kv8JHgFVrLEj6V1s.ttf
+Content Type: font/ttf
+
+Uri: https://fonts.gstatic.com/s/poppins/v22/pxiEyp8kv8JHgFVrFJA.ttf
+File Name: C:\Downloaded Web Sites\lojacacau.shop\s\poppins\v22\pxiEyp8kv8JHgFVrFJA.ttf
+Content Type: font/ttf
+
+Uri: https://lojacacau.shop/memory-game/store/css/delivry.css
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\css\delivry.css
+Content Type: text/css
+
+Uri: https://lojacacau.shop/memory-game/store/images/fundo2.png
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\images\fundo2.png
+Content Type: image/png
+
+Uri: https://lojacacau.shop/memory-game/store/images/logo.jpeg
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\images\logo.jpeg
+Content Type: image/jpeg
+
+Uri: https://lojacacau.shop/memory-game/store/images/prod1.webp
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\images\prod1.webp
+Content Type: image/webp
+
+Uri: https://lojacacau.shop/memory-game/store/images/prod10.webp
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\images\prod10.webp
+Content Type: image/webp
+
+Uri: https://lojacacau.shop/memory-game/store/images/prod11.webp
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\images\prod11.webp
+Content Type: image/webp
+
+Uri: https://lojacacau.shop/memory-game/store/images/prod12.webp
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\images\prod12.webp
+Content Type: image/webp
+
+Uri: https://lojacacau.shop/memory-game/store/images/prod13.webp
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\images\prod13.webp
+Content Type: image/webp
+
+Uri: https://lojacacau.shop/memory-game/store/images/prod2.webp
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\images\prod2.webp
+Content Type: image/webp
+
+Uri: https://lojacacau.shop/memory-game/store/images/prod3.webp
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\images\prod3.webp
+Content Type: image/webp
+
+Uri: https://lojacacau.shop/memory-game/store/images/prod4.webp
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\images\prod4.webp
+Content Type: image/webp
+
+Uri: https://lojacacau.shop/memory-game/store/images/prod5.webp
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\images\prod5.webp
+Content Type: image/webp
+
+Uri: https://lojacacau.shop/memory-game/store/images/prod6.webp
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\images\prod6.webp
+Content Type: image/webp
+
+Uri: https://lojacacau.shop/memory-game/store/images/prod7.webp
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\images\prod7.webp
+Content Type: image/webp
+
+Uri: https://lojacacau.shop/memory-game/store/images/prod8.webp
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\images\prod8.webp
+Content Type: image/webp
+
+Uri: https://lojacacau.shop/memory-game/store/images/prod9.webp
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\images\prod9.webp
+Content Type: image/webp
+
+Uri: https://lojacacau.shop/memory-game/store/images/relato1.webp
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\images\relato1.webp
+Content Type: image/webp
+
+Uri: https://lojacacau.shop/memory-game/store/images/relato2.jpg
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\images\relato2.jpg
+Content Type: image/jpeg
+
+Uri: https://lojacacau.shop/memory-game/store/images/relato3.jpg
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\images\relato3.jpg
+Content Type: image/jpeg
+
+Uri: https://lojacacau.shop/memory-game/store/images/relato4.jpg
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\images\relato4.jpg
+Content Type: image/jpeg
+
+Uri: https://lojacacau.shop/memory-game/store/images/relato5.jpg
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\images\relato5.jpg
+Content Type: image/jpeg
+
+Uri: https://lojacacau.shop/memory-game/store/images/relato6.jpg
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\images\relato6.jpg
+Content Type: image/jpeg
+
+Uri: https://lojacacau.shop/memory-game/store/images/relato7.jpg
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\images\relato7.jpg
+Content Type: image/jpeg
+
+Uri: https://lojacacau.shop/memory-game/store/images/relato8.jpg
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\images\relato8.jpg
+Content Type: image/jpeg
+
+Uri: https://lojacacau.shop/memory-game/store/images/relato9.jpg
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\images\relato9.jpg
+Content Type: image/jpeg
+
+Uri: https://lojacacau.shop/memory-game/store/index.html?utm_source=organic&utm_campaign=&utm_medium=&utm_content=&utm_term=&xcod=organichQwK21wXxRhQwK21wXxRhQwK21wXxRhQwK21wXxR&sck=organichQwK21wXxRhQwK21wXxRhQwK21wXxRhQwK21wXxR
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\index.html
+Content Type: text/html
+
+Uri: https://lojacacau.shop/memory-game/store/js/all.js
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\js\all.js
+Content Type: application/x-javascript
+
+Uri: https://lojacacau.shop/memory-game/store/js/delivry.js
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\js\delivry.js
+Content Type: application/x-javascript
+
+Uri: https://lojacacau.shop/memory-game/store/js/jquery.min.js
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\js\jquery.min.js
+Content Type: application/x-javascript
+
+Uri: https://lojacacau.shop/memory-game/store/js/sweetalert.min.js
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\js\sweetalert.min.js
+Content Type: application/x-javascript
+
+Uri: https://lojacacau.shop/memory-game/store/sweetalert.js
+File Name: C:\Downloaded Web Sites\lojacacau.shop\memory-game\store\sweetalert.js
+Content Type: application/x-javascript
+
+Uri: https://pay.paguenow.fun/1VOvGVk1xRJgD62
+File Name: C:\Downloaded Web Sites\lojacacau.shop\1VOvGVk1xRJgD62
+Content Type: application/json
+
+Uri: https://pay.paguenow.fun/1VOvGVkqL2ogD62
+File Name: C:\Downloaded Web Sites\lojacacau.shop\1VOvGVkqL2ogD62
+Content Type: application/json
+
+Uri: https://pay.paguenow.fun/5pjw3Rode02Z2lQ
+File Name: C:\Downloaded Web Sites\lojacacau.shop\5pjw3Rode02Z2lQ
+Content Type: application/json
+
+Uri: https://pay.paguenow.fun/7vJOGY5nBKaGKXd
+File Name: C:\Downloaded Web Sites\lojacacau.shop\7vJOGY5nBKaGKXd
+Content Type: application/json
+
+Uri: https://pay.paguenow.fun/7vJOGY5OvbaGKXd
+File Name: C:\Downloaded Web Sites\lojacacau.shop\7vJOGY5OvbaGKXd
+Content Type: application/json
+
+Uri: https://pay.paguenow.fun/KV603kV6omkgw8y
+File Name: C:\Downloaded Web Sites\lojacacau.shop\KV603kV6omkgw8y
+Content Type: application/json
+
+Uri: https://pay.paguenow.fun/KV603kVk8eogw8y
+File Name: C:\Downloaded Web Sites\lojacacau.shop\KV603kVk8eogw8y
+Content Type: application/json
+
+Uri: https://pay.paguenow.fun/meABG9VPwzLg6Ea
+File Name: C:\Downloaded Web Sites\lojacacau.shop\meABG9VPwzLg6Ea
+Content Type: application/json
+
+Uri: https://pay.paguenow.fun/N1nVZpE6KeVGlM6
+File Name: C:\Downloaded Web Sites\lojacacau.shop\N1nVZpE6KeVGlM6
+Content Type: application/json
+
+Uri: https://pay.paguenow.fun/NDr8gm26lyp3Bmj
+File Name: C:\Downloaded Web Sites\lojacacau.shop\NDr8gm26lyp3Bmj
+Content Type: application/json
+
+Uri: https://pay.paguenow.fun/nQ7kZ7RdezX30eJ
+File Name: C:\Downloaded Web Sites\lojacacau.shop\nQ7kZ7RdezX30eJ
+Content Type: application/json
+
+Uri: https://pay.paguenow.fun/PVYB34EP2Q9ZKzk
+File Name: C:\Downloaded Web Sites\lojacacau.shop\PVYB34EP2Q9ZKzk
+Content Type: application/json
+
+Uri: https://pay.paguenow.fun/YEwR3AVJV0MZdKy
+File Name: C:\Downloaded Web Sites\lojacacau.shop\YEwR3AVJV0MZdKy
+Content Type: application/json
+
